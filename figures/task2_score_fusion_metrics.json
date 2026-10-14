@@ -1,0 +1,16 @@
+{
+  "task": "task2",
+  "model": "score_fusion(bertweet+vit)",
+  "weight": 0.5,
+  "acc": 0.86282722513089,
+  "macro_precision": 0.4788508841751025,
+  "macro_recall": 0.4945632044416239,
+  "macro_f1": 0.486159789269166,
+  "weighted_precision": 0.8534816650477709,
+  "weighted_recall": 0.86282722513089,
+  "weighted_f1": 0.857637603056741,
+  "mcc": 0.7846237083519415,
+  "kappa": 0.7843415094111948,
+  "balanced_accuracy": 0.4945632044416239,
+  "roc_auc": NaN
+}

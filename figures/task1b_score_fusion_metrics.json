@@ -1,0 +1,16 @@
+{
+  "task": "task1b",
+  "model": "score_fusion(roberta+vit)",
+  "weight": 0.5,
+  "acc": 0.9028683181225554,
+  "macro_precision": 0.9048572997183173,
+  "macro_recall": 0.9279923561978357,
+  "macro_f1": 0.9152191425167512,
+  "weighted_precision": 0.9030374844294103,
+  "weighted_recall": 0.9028683181225554,
+  "weighted_f1": 0.9023458247451593,
+  "mcc": 0.8509900573286313,
+  "kappa": 0.8506910648238272,
+  "balanced_accuracy": 0.9279923561978357,
+  "roc_auc": 0.9763414957787858
+}

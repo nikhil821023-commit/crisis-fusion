@@ -1,0 +1,15 @@
+Task,Model,Type,Accuracy_%,Weighted_F1_%,MCC,Cohen_Kappa,Balanced_Accuracy,ROC_AUC
+task1a,BERT,Text,86.897,86.628,,,,
+task1a,RoBERTa,Text,87.027,86.83,,,,
+task1a,ViT,Image,86.701,86.631,,,,
+task1a,Score Fusion,Text+Image,91.134,90.979,0.7594,0.7588,0.8742,0.9536
+task1a,Cross-Modal Fusion,Text+Image,89.5,89.43,0.7594,0.7588,0.8742,0.9536
+task1b,RoBERTa,Text,86.571,86.299,,,,
+task1b,ViT,Image,78.553,78.036,,,,
+task1b,Score Fusion,Text+Image,90.287,90.235,0.851,0.8507,0.928,0.9763
+task2,BERTweet,Text,82.304,82.247,,,,
+task2,ViT,Image,78.115,77.167,,,,
+task2,Score Fusion,Text+Image,86.283,85.764,0.7846,0.7843,0.4946,
+task3,RoBERTa,Text,62.949,51.199,,,,
+task3,ViT,Image,64.272,52.552,,,,
+task3,Score Fusion,Text+Image,63.138,49.41,0.0748,0.0198,0.3386,0.7743

@@ -1,0 +1,5 @@
+Task,Best Unimodal Accuracy,Best Unimodal F1,Score Fusion Accuracy,Score Fusion F1
+Task 1a - Informativeness,87.03,86.83,91.13,90.98
+Task 1b - Disaster Type,86.57,86.3,90.29,90.23
+Task 2 - Humanitarian Information,82.3,82.25,86.28,85.76
+Task 3 - Damage Severity,64.27,52.55,63.14,49.41
