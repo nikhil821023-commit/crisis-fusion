@@ -206,6 +206,14 @@ python demo_task2.py --share
 
 Open the Gradio URL printed in the terminal to use the demo.
 
+
+Result Screenshot:
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/b42ccb08-e3aa-4db4-b9cb-56cc53dfdbc9" />
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/cc42a8b0-4db3-4e40-a8db-ff83470cab96" />
+<img width="1600" height="605" alt="image" src="https://github.com/user-attachments/assets/77d64f4d-eda6-4cb4-bbd4-dc71a0ba6baa" />
+
+
+
 ### 5. Run Other Experiments
 
 Refer to the command-line arguments and configuration in each script before running training or evaluation. Training transformer models can require substantial GPU memory and time.
